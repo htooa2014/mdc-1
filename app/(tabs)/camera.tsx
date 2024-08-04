@@ -11,9 +11,9 @@ export default function TabTwoScreen() {
   return (
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#D0D0D0', dark: '#353636' }}
-      headerImage={<Ionicons size={310} name="code-slash" style={styles.headerImage} />}>
+      headerImage={<Ionicons size={310} name="camera" style={styles.headerImage} />}>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Explore the world!</ThemedText>
+        <ThemedText type="title">ကင်မရာ မြင်ကွင်း</ThemedText>
       </ThemedView>
      
       
